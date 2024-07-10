@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.24.0/Hello Cardboard/Scenes/OpeningScene.unity
+    guid: 6eb4c5aabb24dfe4c885c7c443e61de2
+  - enabled: 1
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.24.0/Hello Cardboard/Scenes/GameScene.unity
+    guid: 145a2a45d7bc746b19cb68410368bf96
+  - enabled: 1
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.24.0/Hello Cardboard/Scenes/GameOverScene.unity
+    guid: 3b31f1a2cd9b658479bc8d7b10532196
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: dfcbebad9f2db5640b0ab9ecd7e94a1c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4e0dc1aba8728ce4c8c18baf7e7077fc, type: 2}
