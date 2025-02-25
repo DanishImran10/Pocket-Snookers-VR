@@ -1,6 +1,3 @@
-### **Pocket Snookers VR - README.md**  
-
-```markdown
 # Pocket Snookers VR 🎱  
 
 **Pocket Snookers VR** is an immersive **first-person VR snooker game** built for **Google Cardboard and Shinecon VR**, providing a realistic cue sports experience. Using a **Bluetooth gaming controller**, players can execute precise shots with complete control over angle, spin, and power.  
