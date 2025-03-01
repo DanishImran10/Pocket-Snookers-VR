@@ -35,7 +35,7 @@
 - Spatialized **3D audio** for enhanced player immersion.
 
 ## 📽️ Gameplay Video
-Watch the gameplay video [here](Pocket%20Snookers%20VR/Snooker-Unity/Gameplay/Pocket%20Snookers%20VR.mp4).
+Watch the gameplay video [here](Pocket%20Snookers%20VR/Snooker-Unity/Gameplay/Pocket%20Snookers.mp4).
 
 ## 📱 Download
 Download the Android Build from [this link](https://drive.google.com/drive/folders/1QTKvieayhLmDqytCwF5oT86pNlf04cup?usp=drive_link).
